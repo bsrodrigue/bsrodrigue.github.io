@@ -1,8 +1,6 @@
 async function loadPosts() {
   const posts = [
-    { title: "First Post", file: "posts/first.md" },
-    { title: "Learning Go", file: "posts/learning-go.md" },
-    { title: "Networking Deep Dive", file: "posts/networking.md" },
+    { title: "Dreamserver", file: "posts/dreamserver.md" },
   ];
 
   const nav = document.getElementById("post-list");
